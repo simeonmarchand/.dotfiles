@@ -1,0 +1,61 @@
+{
+    "userDataProfilesMigration": true,
+    "profileAssociations": {
+        "workspaces": {},
+        "emptyWindows": {
+            "1718655096789": "__default__profile__"
+        }
+    },
+    "profileAssociationsMigration": true,
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "5c0edb0fd8d366a23776d70dcf0a3a7ed1888e46580dde24fde88416f5afd691",
+    "telemetry.devDeviceId": "1abce37e-b7f4-4d1b-9d29-64842f685f51",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1718655096789"
+            }
+        ]
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/simeon/.config/Code/Backups/1718655096789",
+            "uiState": {
+                "mode": 0,
+                "x": 2140,
+                "y": 171,
+                "width": 1024,
+                "height": 768
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#24273a",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cad3f5",
+            "background": "#24273a",
+            "editorBackground": "#24273a",
+            "titleBarBackground": "#181926",
+            "activityBarBackground": "#181926",
+            "sideBarBackground": "#1e2030",
+            "statusBarBackground": "#181926",
+            "statusBarNoFolderBackground": "#181926",
+            "windowBorder": "rgba(0, 0, 0, 0)"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 256,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    }
+}
