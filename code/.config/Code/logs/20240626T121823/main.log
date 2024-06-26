@@ -1,0 +1,5 @@
+2024-06-26 12:18:23.205 [info] update#setState idle
+2024-06-26 12:18:53.180 [info] update#setState checking for updates
+2024-06-26 12:18:54.558 [info] update#setState idle
+2024-06-26 12:31:51.031 [info] Extension host with pid 42396 exited with code: 0, signal: unknown.
+2024-06-26 12:31:52.032 [error] Extension host with pid 42396 still exists, forcefully killing it...

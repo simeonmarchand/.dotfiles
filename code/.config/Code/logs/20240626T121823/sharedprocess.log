@@ -1,0 +1,128 @@
+2024-06-26 12:27:18.791 [info] Getting Manifest... shopify.ruby-lsp
+2024-06-26 12:27:18.810 [info] Installing extension: shopify.ruby-lsp vscode-userdata:/home/simeon/.vscode/extensions/extensions.json
+2024-06-26 12:27:21.365 [info] Extension signature verification result for shopify.ruby-lsp: Success. Executed: true. Duration: 1852ms.
+2024-06-26 12:27:21.412 [info] Extracted extension to file:///home/simeon/.vscode/extensions/shopify.ruby-lsp-0.7.5: shopify.ruby-lsp
+2024-06-26 12:27:21.418 [info] Renamed to /home/simeon/.vscode/extensions/shopify.ruby-lsp-0.7.5
+2024-06-26 12:27:21.528 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/simeon/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/simeon/.vscode/extensions/extensions.json.vsctmp'
+    at c.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19235)
+    at m (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19345)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36685)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29033)
+    at async b.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:14899)
+    at async H.vb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:117665)
+2024-06-26 12:27:21.540 [info] Extension installed successfully: shopify.ruby-lsp vscode-userdata:/home/simeon/.vscode/extensions/extensions.json
+2024-06-26 12:28:59.030 [info] Getting Manifest... shopify.ruby-extensions-pack
+2024-06-26 12:28:59.049 [info] Installing extension: shopify.ruby-extensions-pack vscode-userdata:/home/simeon/.vscode/extensions/extensions.json
+2024-06-26 12:28:59.276 [info] Getting Manifest... shopify.ruby-lsp
+2024-06-26 12:28:59.284 [info] Getting Manifest... koichisasada.vscode-rdbg
+2024-06-26 12:28:59.311 [info] Getting Manifest... sorbet.sorbet-vscode-extension
+2024-06-26 12:28:59.442 [info] Installing extension: koichisasada.vscode-rdbg vscode-userdata:/home/simeon/.vscode/extensions/extensions.json
+2024-06-26 12:28:59.442 [info] Installing extension: sorbet.sorbet-vscode-extension vscode-userdata:/home/simeon/.vscode/extensions/extensions.json
+2024-06-26 12:29:01.711 [info] Extension signature verification result for shopify.ruby-extensions-pack: Success. Executed: true. Duration: 1750ms.
+2024-06-26 12:29:01.736 [info] Extracted extension to file:///home/simeon/.vscode/extensions/shopify.ruby-extensions-pack-0.1.9: shopify.ruby-extensions-pack
+2024-06-26 12:29:01.743 [info] Renamed to /home/simeon/.vscode/extensions/shopify.ruby-extensions-pack-0.1.9
+2024-06-26 12:29:01.852 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/simeon/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/simeon/.vscode/extensions/extensions.json.vsctmp'
+    at c.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19235)
+    at m (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19345)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36685)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29033)
+    at async b.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:14899)
+    at async H.vb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:117665)
+2024-06-26 12:29:01.968 [info] Extension signature verification result for koichisasada.vscode-rdbg: Success. Executed: true. Duration: 1742ms.
+2024-06-26 12:29:02.012 [info] Extracted extension to file:///home/simeon/.vscode/extensions/koichisasada.vscode-rdbg-0.2.2: koichisasada.vscode-rdbg
+2024-06-26 12:29:02.017 [info] Renamed to /home/simeon/.vscode/extensions/koichisasada.vscode-rdbg-0.2.2
+2024-06-26 12:29:02.161 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/simeon/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/simeon/.vscode/extensions/extensions.json.vsctmp'
+    at c.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19235)
+    at m (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19345)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36685)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29033)
+    at async b.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:14899)
+    at async H.vb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:117665)
+2024-06-26 12:29:02.334 [info] Extension signature verification result for sorbet.sorbet-vscode-extension: Success. Executed: true. Duration: 1823ms.
+2024-06-26 12:29:03.901 [info] Extracted extension to file:///home/simeon/.vscode/extensions/sorbet.sorbet-vscode-extension-0.3.35: sorbet.sorbet-vscode-extension
+2024-06-26 12:29:03.907 [info] Renamed to /home/simeon/.vscode/extensions/sorbet.sorbet-vscode-extension-0.3.35
+2024-06-26 12:29:04.000 [info] Extension installed successfully: shopify.ruby-extensions-pack vscode-userdata:/home/simeon/.vscode/extensions/extensions.json
+2024-06-26 12:29:04.000 [info] Extension installed successfully: koichisasada.vscode-rdbg vscode-userdata:/home/simeon/.vscode/extensions/extensions.json
+2024-06-26 12:29:04.000 [info] Extension installed successfully: sorbet.sorbet-vscode-extension vscode-userdata:/home/simeon/.vscode/extensions/extensions.json
+2024-06-26 12:29:04.002 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/simeon/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/simeon/.vscode/extensions/extensions.json.vsctmp'
+    at c.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19235)
+    at m (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19345)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36685)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29033)
+    at async b.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:14899)
+    at async H.vb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:117665)
+2024-06-26 12:31:27.038 [info] Uninstalling extension from the profile: shopify.ruby-extensions-pack@0.1.9 vscode-userdata:/home/simeon/.vscode/extensions/extensions.json
+2024-06-26 12:31:27.070 [info] Uninstalling extension from the profile: koichisasada.vscode-rdbg@0.2.2 vscode-userdata:/home/simeon/.vscode/extensions/extensions.json
+2024-06-26 12:31:27.070 [info] Uninstalling extension from the profile: shopify.ruby-lsp@0.7.5 vscode-userdata:/home/simeon/.vscode/extensions/extensions.json
+2024-06-26 12:31:27.070 [info] Uninstalling extension from the profile: sorbet.sorbet-vscode-extension@0.3.35 vscode-userdata:/home/simeon/.vscode/extensions/extensions.json
+2024-06-26 12:31:27.088 [info] Marked extension as uninstalled shopify.ruby-extensions-pack-0.1.9
+2024-06-26 12:31:27.102 [info] Marked extension as uninstalled koichisasada.vscode-rdbg-0.2.2
+2024-06-26 12:31:27.113 [info] Marked extension as uninstalled shopify.ruby-lsp-0.7.5
+2024-06-26 12:31:27.122 [info] Marked extension as uninstalled sorbet.sorbet-vscode-extension-0.3.35
+2024-06-26 12:31:27.159 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/simeon/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/simeon/.vscode/extensions/extensions.json.vsctmp'
+    at c.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19235)
+    at m (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19345)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36685)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29033)
+    at async b.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:14899)
+    at async H.vb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:117665)
+2024-06-26 12:31:27.197 [info] Successfully uninstalled extension from the profile koichisasada.vscode-rdbg@0.2.2 vscode-userdata:/home/simeon/.vscode/extensions/extensions.json
+2024-06-26 12:31:27.261 [info] Successfully uninstalled extension from the profile sorbet.sorbet-vscode-extension@0.3.35 vscode-userdata:/home/simeon/.vscode/extensions/extensions.json
+2024-06-26 12:31:27.281 [info] Successfully uninstalled extension from the profile shopify.ruby-lsp@0.7.5 vscode-userdata:/home/simeon/.vscode/extensions/extensions.json
+2024-06-26 12:31:27.291 [info] Successfully uninstalled extension from the profile shopify.ruby-extensions-pack@0.1.9 vscode-userdata:/home/simeon/.vscode/extensions/extensions.json
+2024-06-26 12:31:46.722 [info] Getting Manifest... shopify.ruby-lsp
+2024-06-26 12:31:46.736 [info] Installing extension: shopify.ruby-lsp vscode-userdata:/home/simeon/.vscode/extensions/extensions.json
+2024-06-26 12:31:47.074 [info] Removed the extension from uninstalled list: shopify.ruby-lsp
+2024-06-26 12:31:47.151 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/simeon/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/simeon/.vscode/extensions/extensions.json.vsctmp'
+    at c.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19235)
+    at m (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19345)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36685)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29033)
+    at async b.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:14899)
+    at async H.vb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:117665)
+2024-06-26 12:31:47.196 [info] Extension installed successfully: shopify.ruby-lsp vscode-userdata:/home/simeon/.vscode/extensions/extensions.json
+2024-06-26 12:35:29.492 [info] Getting Manifest... devsense.phptools-vscode
+2024-06-26 12:35:29.512 [info] Installing extension: devsense.phptools-vscode vscode-userdata:/home/simeon/.vscode/extensions/extensions.json
+2024-06-26 12:35:45.244 [info] Getting Manifest... devsense.composer-php-vscode
+2024-06-26 12:35:45.276 [info] Getting Manifest... devsense.profiler-php-vscode
+2024-06-26 12:35:45.308 [info] Getting Manifest... devsense.intelli-php-vscode
+2024-06-26 12:35:45.455 [info] Installing extension: devsense.composer-php-vscode vscode-userdata:/home/simeon/.vscode/extensions/extensions.json
+2024-06-26 12:35:45.455 [info] Installing extension: devsense.profiler-php-vscode vscode-userdata:/home/simeon/.vscode/extensions/extensions.json
+2024-06-26 12:35:45.455 [info] Installing extension: devsense.intelli-php-vscode vscode-userdata:/home/simeon/.vscode/extensions/extensions.json
+2024-06-26 12:35:53.264 [info] Extension signature verification result for devsense.composer-php-vscode: Success. Executed: true. Duration: 1234ms.
+2024-06-26 12:35:53.266 [info] Extension signature verification result for devsense.profiler-php-vscode: Success. Executed: true. Duration: 1211ms.
+2024-06-26 12:35:53.294 [info] Extracted extension to file:///home/simeon/.vscode/extensions/devsense.composer-php-vscode-1.48.15635: devsense.composer-php-vscode
+2024-06-26 12:35:53.299 [info] Renamed to /home/simeon/.vscode/extensions/devsense.composer-php-vscode-1.48.15635
+2024-06-26 12:35:53.305 [info] Extracted extension to file:///home/simeon/.vscode/extensions/devsense.profiler-php-vscode-1.48.15635: devsense.profiler-php-vscode
+2024-06-26 12:35:53.309 [info] Renamed to /home/simeon/.vscode/extensions/devsense.profiler-php-vscode-1.48.15635
+2024-06-26 12:35:53.394 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/simeon/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/simeon/.vscode/extensions/extensions.json.vsctmp'
+    at c.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19235)
+    at m (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19345)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36685)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29033)
+    at async b.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:14899)
+    at async H.vb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:117665)
+2024-06-26 12:36:07.270 [info] Extension signature verification result for devsense.phptools-vscode: Success. Executed: true. Duration: 1333ms.
+2024-06-26 12:36:07.677 [info] Extracted extension to file:///home/simeon/.vscode/extensions/devsense.phptools-vscode-1.48.15635-linux-x64: devsense.phptools-vscode
+2024-06-26 12:36:07.682 [info] Renamed to /home/simeon/.vscode/extensions/devsense.phptools-vscode-1.48.15635-linux-x64
+2024-06-26 12:36:07.783 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/simeon/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/simeon/.vscode/extensions/extensions.json.vsctmp'
+    at c.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19235)
+    at m (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19345)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36685)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29033)
+    at async b.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:14899)
+    at async H.vb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:117665)
+2024-06-26 12:36:35.400 [info] Extension signature verification result for devsense.intelli-php-vscode: Success. Executed: true. Duration: 1288ms.
+2024-06-26 12:36:36.765 [info] Extracted extension to file:///home/simeon/.vscode/extensions/devsense.intelli-php-vscode-0.12.15062-linux-x64: devsense.intelli-php-vscode
+2024-06-26 12:36:36.768 [info] Renamed to /home/simeon/.vscode/extensions/devsense.intelli-php-vscode-0.12.15062-linux-x64
+2024-06-26 12:36:36.845 [info] Extension installed successfully: devsense.composer-php-vscode vscode-userdata:/home/simeon/.vscode/extensions/extensions.json
+2024-06-26 12:36:36.845 [info] Extension installed successfully: devsense.profiler-php-vscode vscode-userdata:/home/simeon/.vscode/extensions/extensions.json
+2024-06-26 12:36:36.845 [info] Extension installed successfully: devsense.phptools-vscode vscode-userdata:/home/simeon/.vscode/extensions/extensions.json
+2024-06-26 12:36:36.845 [info] Extension installed successfully: devsense.intelli-php-vscode vscode-userdata:/home/simeon/.vscode/extensions/extensions.json
+2024-06-26 12:36:36.851 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/simeon/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/simeon/.vscode/extensions/extensions.json.vsctmp'
+    at c.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19235)
+    at m (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19345)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36685)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29033)
+    at async b.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:14899)
+    at async H.vb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:117665)
